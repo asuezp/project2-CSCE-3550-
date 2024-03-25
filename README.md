@@ -7,9 +7,9 @@ This project is an implementation of a JWKS (JSON Web Key Set) server with SQLit
 
 1. python database_setup.py
 2. python server.py
-http://localhost:8080/auth
-http://localhost:8080/auth?expired
-http://localhost:8080/.well-known/jwks.json
+3. http://localhost:8080/auth
+4. http://localhost:8080/auth?expired
+5. http://localhost:8080/.well-known/jwks.json
 
 
 
